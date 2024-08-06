@@ -1,3 +1,6 @@
 [submodule "ABN_assignment_locations"]
 	path = ABN_assignment_locations
 	url = git@github.com:mohwaili/ABN_assignment_locations.git
+[submodule "ABN_assignment_wikipedia"]
+	path = ABN_assignment_wikipedia
+	url = git@github.com:mohwaili/ABN_assignment_wikipedia.git
