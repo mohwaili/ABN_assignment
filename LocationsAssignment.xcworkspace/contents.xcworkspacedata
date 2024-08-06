@@ -5,15 +5,9 @@
       location = "group:README.md">
    </FileRef>
    <FileRef
-      location = "group:Locations/RTL.xctestplan">
+      location = "group:ABN_assignment_locations/Locations.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Locations/Locations.xctestplan">
-   </FileRef>
-   <FileRef
-      location = "group:Locations/Locations.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:wikipedia-ios/Wikipedia.xcodeproj">
+      location = "group:ABN_assignment_wikipedia/Wikipedia.xcodeproj">
    </FileRef>
 </Workspace>
