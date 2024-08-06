@@ -1,6 +1,7 @@
 # Mohammed Al Waili - Implementation of the iOS assignment
 
 This is my implementation for the ABN Amro assignment
+To run the apps locally, clone the project including the submodules (wikipedia & locations app) and open the workspace in xcode
 
 ## Wikipedia app
 
